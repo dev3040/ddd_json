@@ -5,6 +5,291 @@
       "email": "Startttttttttttttttttttttttt",
       "id": 1,
       "price": 200
+    },
+    {
+      "name": "Manicure & Padicure",
+      "email": "devng123@gmasasdsadsdil.com",
+      "id": 2,
+      "price": 2000
+    },
+    {
+      "name": "Eyebrows",
+      "email": "devnasdsadsa",
+      "id": 3,
+      "price": 150
+    },
+    {
+      "name": "Hair Spa",
+      "email": "dea",
+      "id": 4,
+      "price": 5000
+    },
+    {
+      "name": "Hair Cut",
+      "email": "ENDDDDDDDDDDDDDDDDDDDDDDDDDD",
+      "id": 5,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure ",
+      "email": "dd",
+      "id": 6,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure ",
+      "email": "dddddd",
+      "id": 7,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure ",
+      "email": "dddddd",
+      "id": 8,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure ",
+      "email": "dddddd",
+      "id": 9,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure ",
+      "email": "dddddd",
+      "id": 10,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut ",
+      "email": "dddddd",
+      "id": 11,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut ",
+      "email": "dddddd",
+      "id": 12,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut ",
+      "email": "dddddd",
+      "id": 13,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut ",
+      "email": "dddddd",
+      "id": 14,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut",
+      "email": "dddddd",
+      "id": 15,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut",
+      "email": "dddddd",
+      "id": 16,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut",
+      "email": "dddddd",
+      "id": 17,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut ",
+      "email": "dddddd",
+      "id": 18,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut ",
+      "email": "end",
+      "id": 19,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut ",
+      "email": "end",
+      "id": 20,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut ",
+      "email": "end",
+      "id": 21,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut",
+      "email": "end",
+      "id": 22,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut",
+      "email": "end",
+      "id": 23,
+      "price": 200
+    },
+    {
+      "name": "Hair Cut ",
+      "email": "end",
+      "id": 24,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure ",
+      "email": "end",
+      "id": 25,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure ",
+      "email": "end",
+      "id": 26,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure ",
+      "email": "end",
+      "id": 27,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure",
+      "email": "end",
+      "id": 28,
+      "price": 200
+    },
+    {
+      "name": "Manicure & Padicure ",
+      "email": "end",
+      "id": 29,
+      "price": 200
+    },
+   
+  ],
+  "branches": [
+    {
+      "id": 1,
+      "name": "Lakme"
+    },
+    {
+      "name": "Barber",
+      "id": 2
+    },
+    {
+      "name": "123",
+      "id": 3
+    },
+    {
+      "name": "Xyz",
+      "id": 4
+    },
+    {
+      "name": "456",
+      "id": 5
+    }
+  ],
+  "salons": [
+    {
+      "id": 1,
+      "b_id": 1,
+      "name": "Salon 1",
+      "address": "Ranip"
+    },
+    {
+      "name": "Salon3",
+      "b_id": 1,
+      "id": 2,
+      "address": "Ranip"
+    },
+    {
+      "name": "Salon4",
+      "b_id": 1,
+      "id": 3,
+      "address": "Ranip"
+    },
+    {
+      "name": "Salon5",
+      "b_id": 1,
+      "id": 4,
+      "address": "Ranip"
+    },
+    {
+      "name": "Salon6",
+      "b_id": 2,
+      "id": 5,
+      "address": "Ranip"
+    }
+  ],
+  "services_book": [
+    {
+      "id": 1,
+      "b_id": 1,
+      "gender": "male",
+      "service_name": "Hair Cut",
+      "price": 300,
+      "description": "Mast Hair cut krisu",
+      "service_time": 1
+    },
+    {
+      "b_id": 1,
+      "gender": "female",
+      "service_name": "Hair Cut",
+      "price": 300,
+      "description": "Mast Hair cut krisu",
+      "service_time": 1,
+      "id": 2
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "b_id": 1,
+      "gender": "male",
+      "original_price": "5000",
+      "offer": "10%",
+      "p_title": "Package 1",
+      "description": "-HairCut-Manicure-Padicure-Golden Package",
+      "price": 5000
+    },
+    {
+      "b_id": 1,
+      "gender": "female",
+      "original_price": "6000",
+      "offer": "20%",
+      "description": "-HairCut-Manicure-Padicure-Golden Package",
+      "price": 3000,
+      "p_title": "Package 2",
+      "id": 2
+    },
+    {
+      "b_id": 1,
+      "gender": "female",
+      "original_price": "6000",
+      "offer": "20%",
+      "description": "-HairCut-Manicure-Padicure-Golden Package",
+      "price": 2000,
+      "p_title": "Package 3",
+      "id": 3
+    },
+    {
+      "b_id": 1,
+      "gender": "male",
+      "original_price": "6000",
+      "offer": "20%",
+      "description": "-HairCut-Manicure-Padicure-Golden Package",
+      "price": 4000,
+      "p_title": "Package 4",
+      "id": 4
     }
   ]
 }
